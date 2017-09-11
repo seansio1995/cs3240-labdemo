@@ -1,6 +1,6 @@
 __author__="cx7ga"
 
-print("hello")
+def greeting(msg):
+    print(msg)
 
-
-
+greeting("hello")
